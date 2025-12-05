@@ -5,9 +5,9 @@ This project implements a Convolutional Neural Network (CNN) and Multilayer Perc
 ## Project Structure
 
 ProjectFolder/
-- main.py
-- Models/ (downloaded trained model files go here)
-- EMNIST Kaggle/ (downloaded dataset files go here)
+├─  main.py
+├─  Models/ (downloaded trained model files go here)
+└─  EMNIST Kaggle/ (downloaded dataset files go here)
 
 ## Requirements
 
@@ -33,14 +33,6 @@ Download Location:
 
 - Models: https://mega.nz/folder/4AY3zDCT#zf0Evj8_cxDp4Sbflz2Jpw
 - EMNIST Kaggle: https://mega.nz/folder/4IJVQADJ#UCBKyuBx6VFibdT04TFXrQ
-
-After downloading, your folder should look like:
-
-ProjectFolder/
-├─ Models/
-│  └─ (model files)
-└─ EMNIST Kaggle/
-   └─ (dataset files)
 
 ## How to Run
 
